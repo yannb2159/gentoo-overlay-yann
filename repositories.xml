@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>gentoo-overlay-yannboyerdev</name>
+      <description lang="en">Yann's Gentoo overlay for the software I need</description>
+        <homepage>https://github.com/yannb2159/gentoo-overlay-yann</homepage>
+        <owner type="person">
+            <name>yannboyer</name>
+            <email>yann.boyer742@gmail.com</email>
+        </owner>
+        <source type="git">git://github.com/yannb2159/gentoo-overlay-yann.git</source>
+        <feed>https://github.com/yannb2159/gentoo-overlay-yann/commits/main.atom</feed>
+  </repo>
+</repositories>
