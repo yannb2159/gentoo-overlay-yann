@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>yann.boyer742@gmail.com</email>
+    <name>yann-boyer</name>
+  </maintainer>
+  <longdescription lang="en">
+    Dolphin is a GameCube and Wii emulator allowing you to play these consoles in 1080p+ and even more.
+  </longdescription>
+  <upstream>
+    <remote-id type="github">dolphin-emu/dolphin</remote-id>
+    <bugs-to>None</bugs-to>
+  </upstream>
+</pkgmetadata>
